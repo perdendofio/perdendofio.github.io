@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Perdendo Fío</title>
-    <link href="https://perdendofio.github.io/feed.xml" rel="self" />
-    <link href="https://perdendofio.github.io" />
+    <link href="https://perdendofio.com/feed.xml" rel="self" />
+    <link href="https://perdendofio.com" />
     <updated>2026-01-03T15:06:28+01:00</updated>
     <author>
         <name>Administrador</name>
     </author>
-    <id>https://perdendofio.github.io</id>
+    <id>https://perdendofio.com</id>
 
     <entry>
         <title>Kit de supervivencia: Los 10 materiales que necesitas antes de comenzar a coser</title>
         <author>
             <name>Saray Martínez Portela</name>
         </author>
-        <link href="https://perdendofio.github.io/post-2.html"/>
-        <id>https://perdendofio.github.io/post-2.html</id>
+        <link href="https://perdendofio.com/post-2.html"/>
+        <id>https://perdendofio.com/post-2.html</id>
             <category term="Trucos de costura"/>
             <category term="Blog"/>
 
@@ -117,8 +117,8 @@
         <author>
             <name>Saray Martínez Portela</name>
         </author>
-        <link href="https://perdendofio.github.io/post-1.html"/>
-        <id>https://perdendofio.github.io/post-1.html</id>
+        <link href="https://perdendofio.com/post-1.html"/>
+        <id>https://perdendofio.com/post-1.html</id>
             <category term="Trucos de costura"/>
             <category term="Blog"/>
 
